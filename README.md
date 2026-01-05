@@ -17,7 +17,6 @@ This project is basec on a kaggle competition. Link for overview - "https://www.
 | File | Description |
 |------|------------|
 | `notebook.ipynb` | Jupyter Notebook with full analysis |
-| `model.joblib` | Trained model for future use |
 | `test.csv` | Test Dataset  |
 | `test_predictions.csv` | Predictions made using trained model on test dataset |
 
