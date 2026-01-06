@@ -4,7 +4,6 @@
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-orange.svg)](https://scikit-learn.org/)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green.svg)](LICENSE)
 
 Comprehensive workflow covering **data cleaning → feature engineering → model training → evaluation** using **RandomForestRegressor** with time-aware validation.
 
